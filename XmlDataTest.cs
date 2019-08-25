@@ -22,5 +22,13 @@ namespace FirstTest
             Assert.True(a > (b+c) );
         }
 
-    }
+		[Theory]
+        [XmlData(@"../../../test2.xml","/tests/functionSum/test","./@a,./@b,./@c,./@result")]
+        public void XMLDATATestSum(int a, int b,int c, int result)
+        {
+			//the test
+            Assert.True((a+b+c) == result);
+        }	
+
+    }		    
 }
