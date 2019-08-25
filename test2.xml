@@ -1,0 +1,7 @@
+<tests>
+   <functionSum>
+      <test a="10" b="20" c="30" result="60"/>
+      <test a="20" b="40" c="70" result="130"/>
+      <test a="30" b="50" c="80" result="160"/>
+   </functionSum>
+</tests>
