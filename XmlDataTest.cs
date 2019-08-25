@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Xunit;
 
-namespace CalculoDiariasTest
+namespace FirstTest
 {
     public class XmlDataTest
     {
