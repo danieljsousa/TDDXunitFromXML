@@ -3,6 +3,10 @@
 		<value1>10</value1>
 		<value2>20</value2>
 	</test1>
+	<test1 value3="40">
+		<value1>10</value1>
+		<value2>30</value2>
+	</test1>	
 	<test2>
 		<a value="1000"/>
 		<b>50</b>

@@ -1,0 +1,14 @@
+C:\Users\Daniel\Documents\daniel\Projetos\TDDXunitFromXML\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Daniel\Documents\daniel\Projetos\TDDXunitFromXML\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Daniel\Documents\daniel\Projetos\TDDXunitFromXML\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Daniel\Documents\daniel\Projetos\TDDXunitFromXML\bin\Debug\netcoreapp2.1\TDDXunitFromXML.deps.json
+C:\Users\Daniel\Documents\daniel\Projetos\TDDXunitFromXML\bin\Debug\netcoreapp2.1\TDDXunitFromXML.runtimeconfig.json
+C:\Users\Daniel\Documents\daniel\Projetos\TDDXunitFromXML\bin\Debug\netcoreapp2.1\TDDXunitFromXML.runtimeconfig.dev.json
+C:\Users\Daniel\Documents\daniel\Projetos\TDDXunitFromXML\bin\Debug\netcoreapp2.1\TDDXunitFromXML.dll
+C:\Users\Daniel\Documents\daniel\Projetos\TDDXunitFromXML\bin\Debug\netcoreapp2.1\TDDXunitFromXML.pdb
+C:\Users\Daniel\Documents\daniel\Projetos\TDDXunitFromXML\obj\Debug\netcoreapp2.1\TDDXunitFromXML.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\daniel\Projetos\TDDXunitFromXML\obj\Debug\netcoreapp2.1\TDDXunitFromXML.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\daniel\Projetos\TDDXunitFromXML\obj\Debug\netcoreapp2.1\TDDXunitFromXML.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\daniel\Projetos\TDDXunitFromXML\obj\Debug\netcoreapp2.1\TDDXunitFromXML.AssemblyInfo.cs
+C:\Users\Daniel\Documents\daniel\Projetos\TDDXunitFromXML\obj\Debug\netcoreapp2.1\TDDXunitFromXML.dll
+C:\Users\Daniel\Documents\daniel\Projetos\TDDXunitFromXML\obj\Debug\netcoreapp2.1\TDDXunitFromXML.pdb
