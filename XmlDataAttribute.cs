@@ -66,13 +66,7 @@ public sealed class XmlDataAttribute : DataAttribute
 
         return result;
     }
-
-    /// <summary>
-    /// Converts a parameter to its destination parameter type, if necessary.
-    /// </summary>
-    /// <param name="parameter">The parameter value</param>
-    /// <param name="parameterType">The destination parameter type (null if not known)</param>
-    /// <returns>The converted parameter value</returns>
+    
     static object ConvertParameter(object parameter, Type parameterType)
     {
        
